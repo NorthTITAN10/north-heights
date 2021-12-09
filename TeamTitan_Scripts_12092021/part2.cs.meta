@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 95a7970cbbef1cf4796533b58b747fe9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textPanel: {instanceID: 0}
+  - dialouge: {instanceID: 0}
+  - buttonText: {instanceID: 0}
+  - gotIt: {instanceID: 0}
+  - Manager: {instanceID: 0}
+  - Card: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
